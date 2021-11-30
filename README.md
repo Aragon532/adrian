@@ -1,2 +1,3 @@
 # adrian
-This is my first commit. 
+This is my first commit! 
+Hello World! 
